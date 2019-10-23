@@ -1,0 +1,84 @@
+C:\Users\kieus_000\Desktop\IndentifiedFace\bin\Debug\IndentifiedFace.exe.config
+C:\Users\kieus_000\Desktop\IndentifiedFace\bin\Debug\IndentifiedFace.exe.manifest
+C:\Users\kieus_000\Desktop\IndentifiedFace\bin\Debug\IndentifiedFace.application
+C:\Users\kieus_000\Desktop\IndentifiedFace\bin\Debug\IndentifiedFace.exe
+C:\Users\kieus_000\Desktop\IndentifiedFace\bin\Debug\IndentifiedFace.pdb
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmCheck.resources
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Form1.resources
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmBegin.resources
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain.resources
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmTimekeeping.resources
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmAddNewEmployee.resources
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Properties.Resources.resources
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.GroupIconControl.resources
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csproj.GenerateResource.Cache
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.TrustInfo.xml
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe.manifest
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.application
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\bin\Debug\IndentifiedFace.exe.config
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\bin\Debug\IndentifiedFace.exe.manifest
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\bin\Debug\IndentifiedFace.application
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\bin\Debug\IndentifiedFace.exe
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\bin\Debug\IndentifiedFace.pdb
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csprojResolveAssemblyReference.cache
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csproj.ResolveComReference.cache
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmCheck.resources
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Form1.resources
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmBegin.resources
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain.resources
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmTimekeeping.resources
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmAddNewEmployee.resources
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Properties.Resources.resources
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.GroupIconControl.resources
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csproj.GenerateResource.Cache
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.TrustInfo.xml
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe.manifest
+C:\Face\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.application
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\bin\Debug\IndentifiedFace.exe.config
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csproj.ResolveComReference.cache
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\bin\Debug\IndentifiedFace.exe.manifest
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\bin\Debug\IndentifiedFace.application
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\bin\Debug\IndentifiedFace.exe
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\bin\Debug\IndentifiedFace.pdb
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csprojResolveAssemblyReference.cache
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmCheck.resources
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Form1.resources
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmBegin.resources
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain.resources
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmTimekeeping.resources
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmAddNewEmployee.resources
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Properties.Resources.resources
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.GroupIconControl.resources
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csproj.GenerateResource.Cache
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.TrustInfo.xml
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe.manifest
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.application
+C:\Captone\IndentifiedFace - Copy\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain1.resources
+C:\Captone\IndentifiedFace1\IndentifiedFace\bin\Debug\IndentifiedFace.exe.config
+C:\Captone\IndentifiedFace1\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csproj.ResolveComReference.cache
+C:\Captone\IndentifiedFace1\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
+C:\Captone\IndentifiedFace1\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb
+C:\Captone\IndentifiedFace1\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csprojResolveAssemblyReference.cache
+C:\Captone\IndentifiedFace1\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmCheck.resources
+C:\Captone\IndentifiedFace1\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Form1.resources
+C:\Captone\IndentifiedFace1\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain1.resources
+C:\Captone\IndentifiedFace1\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmTimekeeping.resources
+C:\Captone\IndentifiedFace1\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmAddNewEmployee.resources
+C:\Captone\IndentifiedFace1\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Properties.Resources.resources
+C:\Captone\IndentifiedFace1\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csproj.GenerateResource.Cache
+C:\Captone\IndentifiedFace1\IndentifiedFace\bin\Debug\IndentifiedFace.exe.manifest
+C:\Captone\IndentifiedFace1\IndentifiedFace\bin\Debug\IndentifiedFace.application
+C:\Captone\IndentifiedFace1\IndentifiedFace\bin\Debug\IndentifiedFace.exe
+C:\Captone\IndentifiedFace1\IndentifiedFace\bin\Debug\IndentifiedFace.pdb
+C:\Captone\IndentifiedFace1\IndentifiedFace\obj\x86\Debug\IndentifiedFace.TrustInfo.xml
+C:\Captone\IndentifiedFace1\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe.manifest
+C:\Captone\IndentifiedFace1\IndentifiedFace\obj\x86\Debug\IndentifiedFace.application

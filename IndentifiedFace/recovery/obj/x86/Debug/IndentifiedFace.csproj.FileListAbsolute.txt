@@ -1,0 +1,37 @@
+c:\users\elitebook 8560px64\documents\visual studio 2010\Projects\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.exe
+c:\users\elitebook 8560px64\documents\visual studio 2010\Projects\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.pdb
+c:\users\elitebook 8560px64\documents\visual studio 2010\Projects\IndentifiedFace\IndentifiedFace\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\elitebook 8560px64\documents\visual studio 2010\Projects\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain.resources
+c:\users\elitebook 8560px64\documents\visual studio 2010\Projects\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Properties.Resources.resources
+c:\users\elitebook 8560px64\documents\visual studio 2010\Projects\IndentifiedFace\IndentifiedFace\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\elitebook 8560px64\documents\visual studio 2010\Projects\IndentifiedFace\IndentifiedFace\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\elitebook 8560px64\documents\visual studio 2010\Projects\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
+c:\users\elitebook 8560px64\documents\visual studio 2010\Projects\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb
+C:\Users\ELITEBOOK 8560Px64\documents\visual studio 2010\Projects\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
+C:\Users\ELITEBOOK 8560Px64\Documents\Visual Studio 2010\Projects\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.xml
+C:\Users\ELITEBOOK 8560Px64\Documents\Visual Studio 2010\Projects\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ELITEBOOK 8560Px64\Documents\Visual Studio 2010\Projects\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.Util.xml
+C:\Users\ELITEBOOK 8560Px64\documents\visual studio 2010\Projects\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmBegin.resources
+C:\Users\ELITEBOOK 8560Px64\documents\visual studio 2010\Projects\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmListStudent.resources
+C:\Users\ELITEBOOK 8560Px64\documents\visual studio 2010\Projects\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmCallTheRoll.resources
+C:\Users\ELITEBOOK 8560Px64\documents\visual studio 2010\Projects\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmSearchInfoStudent.resources
+C:\Users\ELITEBOOK 8560Px64\documents\visual studio 2010\Projects\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmAddNewStudent.resources
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb
+E:\Data\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.exe
+E:\Data\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.pdb
+E:\Data\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.xml
+E:\Data\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.UI.xml
+E:\Data\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.Util.xml
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmBegin.resources
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmListStudent.resources
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmCallTheRoll.resources
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain.resources
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmSearchInfoStudent.resources
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmAddNewStudent.resources
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Properties.Resources.resources
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Data\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.exe.config

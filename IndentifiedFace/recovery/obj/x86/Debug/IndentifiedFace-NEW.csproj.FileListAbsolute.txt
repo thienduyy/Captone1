@@ -1,0 +1,249 @@
+E:\Data\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.exe.config
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb
+E:\Data\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.exe
+E:\Data\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.pdb
+E:\Data\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.xml
+E:\Data\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.UI.xml
+E:\Data\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.Util.xml
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmBegin.resources
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmCallTheRoll.resources
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain.resources
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmSearchInfoStudent.resources
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmAddNewStudent.resources
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Properties.Resources.resources
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Data\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.ClassIconControl.resources
+D:\Tuan\Making Roll-call\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.exe.config
+D:\Tuan\Making Roll-call\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
+D:\Tuan\Making Roll-call\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb
+D:\Tuan\Making Roll-call\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.exe
+D:\Tuan\Making Roll-call\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.pdb
+D:\Tuan\Making Roll-call\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.xml
+D:\Tuan\Making Roll-call\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.UI.xml
+D:\Tuan\Making Roll-call\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.Util.xml
+D:\Tuan\Making Roll-call\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csprojResolveAssemblyReference.cache
+D:\Tuan\Making Roll-call\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmBegin.resources
+D:\Tuan\Making Roll-call\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmCallTheRoll.resources
+D:\Tuan\Making Roll-call\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
+D:\Tuan\Making Roll-call\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain.resources
+D:\Tuan\Making Roll-call\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmSearchInfoStudent.resources
+D:\Tuan\Making Roll-call\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmAddNewStudent.resources
+D:\Tuan\Making Roll-call\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Properties.Resources.resources
+D:\Tuan\Making Roll-call\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.ClassIconControl.resources
+D:\Tuan\Making Roll-call\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csproj.GenerateResource.Cache
+D:\Tuan\Making Roll-call\20140104\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.exe.config
+D:\Tuan\Making Roll-call\20140104\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
+D:\Tuan\Making Roll-call\20140104\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb
+D:\Tuan\Making Roll-call\20140104\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.exe
+D:\Tuan\Making Roll-call\20140104\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.pdb
+D:\Tuan\Making Roll-call\20140104\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.xml
+D:\Tuan\Making Roll-call\20140104\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.UI.xml
+D:\Tuan\Making Roll-call\20140104\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.Util.xml
+D:\Tuan\Making Roll-call\20140104\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csprojResolveAssemblyReference.cache
+D:\Tuan\Making Roll-call\20140104\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmBegin.resources
+D:\Tuan\Making Roll-call\20140104\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmCallTheRoll.resources
+D:\Tuan\Making Roll-call\20140104\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
+D:\Tuan\Making Roll-call\20140104\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain.resources
+D:\Tuan\Making Roll-call\20140104\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmSearchInfoStudent.resources
+D:\Tuan\Making Roll-call\20140104\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmAddNewStudent.resources
+D:\Tuan\Making Roll-call\20140104\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Properties.Resources.resources
+D:\Tuan\Making Roll-call\20140104\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.ClassIconControl.resources
+D:\Tuan\Making Roll-call\20140104\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csproj.GenerateResource.Cache
+E:\DATN\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.exe.config
+E:\DATN\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
+E:\DATN\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb
+E:\DATN\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.exe
+E:\DATN\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.pdb
+E:\DATN\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.xml
+E:\DATN\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.UI.xml
+E:\DATN\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.Util.xml
+E:\DATN\IndentifiedFace\IndentifiedFace\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATN\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmBegin.resources
+E:\DATN\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmCallTheRoll.resources
+E:\DATN\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
+E:\DATN\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain.resources
+E:\DATN\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmSearchInfoStudent.resources
+E:\DATN\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmAddNewStudent.resources
+E:\DATN\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Properties.Resources.resources
+E:\DATN\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.ClassIconControl.resources
+E:\DATN\IndentifiedFace\IndentifiedFace\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATN\IndentifiedFace\IndentifiedFace\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NeO\Desktop\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.exe.config
+C:\Users\NeO\Desktop\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
+C:\Users\NeO\Desktop\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb
+C:\Users\NeO\Desktop\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.exe
+C:\Users\NeO\Desktop\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.pdb
+C:\Users\NeO\Desktop\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.xml
+C:\Users\NeO\Desktop\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.UI.xml
+C:\Users\NeO\Desktop\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.Util.xml
+C:\Users\NeO\Desktop\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NeO\Desktop\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmBegin.resources
+C:\Users\NeO\Desktop\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmCallTheRoll.resources
+C:\Users\NeO\Desktop\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
+C:\Users\NeO\Desktop\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain.resources
+C:\Users\NeO\Desktop\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmSearchInfoStudent.resources
+C:\Users\NeO\Desktop\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmAddNewStudent.resources
+C:\Users\NeO\Desktop\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Properties.Resources.resources
+C:\Users\NeO\Desktop\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.ClassIconControl.resources
+C:\Users\NeO\Desktop\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NeO\Desktop\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.exe.config
+E:\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
+E:\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb
+E:\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.exe
+E:\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.pdb
+E:\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.xml
+E:\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.UI.xml
+E:\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.Util.xml
+E:\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmBegin.resources
+E:\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
+E:\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain.resources
+E:\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Properties.Resources.resources
+E:\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmTimekeeping.resources
+E:\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmSearchInfoEmployee.resources
+E:\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmAddNewEmployee.resources
+E:\IndentifiedFace-u\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.GroupIconControl.resources
+D:\TIEMNV\Win\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.exe.config
+D:\TIEMNV\Win\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
+D:\TIEMNV\Win\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb
+D:\TIEMNV\Win\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.exe
+D:\TIEMNV\Win\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.pdb
+D:\TIEMNV\Win\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.xml
+D:\TIEMNV\Win\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.UI.xml
+D:\TIEMNV\Win\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.Util.xml
+D:\TIEMNV\Win\IndentifiedFace\IndentifiedFace\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TIEMNV\Win\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmBegin.resources
+D:\TIEMNV\Win\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmTimekeeping.resources
+D:\TIEMNV\Win\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
+D:\TIEMNV\Win\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain.resources
+D:\TIEMNV\Win\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmSearchInfoEmployee.resources
+D:\TIEMNV\Win\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmAddNewEmployee.resources
+D:\TIEMNV\Win\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Properties.Resources.resources
+D:\TIEMNV\Win\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.GroupIconControl.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.exe.config
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.exe
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\IndentifiedFace\bin\Debug\IndentifiedFace.pdb
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.xml
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.CV.UI.xml
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\IndentifiedFace\bin\Debug\Emgu.Util.xml
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csprojResolveAssemblyReference.cache
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmBegin.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmTimekeeping.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmSearchInfoEmployee.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmAddNewEmployee.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Properties.Resources.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace.GroupIconControl.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csproj.GenerateResource.Cache
+F:\IndentifiedFace\bin\Debug\IndentifiedFace.exe.config
+F:\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
+F:\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb
+F:\IndentifiedFace\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmBegin.resources
+F:\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmTimekeeping.resources
+F:\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
+F:\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain.resources
+F:\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmSearchInfoEmployee.resources
+F:\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmAddNewEmployee.resources
+F:\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Properties.Resources.resources
+F:\IndentifiedFace\obj\x86\Debug\IndentifiedFace.GroupIconControl.resources
+F:\IndentifiedFace\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\IndentifiedFace\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\IndentifiedFace\bin\Debug\IndentifiedFace.exe
+F:\IndentifiedFace\bin\Debug\IndentifiedFace.pdb
+F:\IndentifiedFace\bin\Debug\Emgu.CV.xml
+F:\IndentifiedFace\bin\Debug\Emgu.CV.UI.xml
+F:\IndentifiedFace\bin\Debug\Emgu.Util.xml
+F:\huhu\IndentifiedFace\bin\Debug\IndentifiedFace.exe.config
+F:\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
+F:\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb
+F:\huhu\IndentifiedFace\bin\Debug\IndentifiedFace.exe
+F:\huhu\IndentifiedFace\bin\Debug\IndentifiedFace.pdb
+F:\huhu\IndentifiedFace\bin\Debug\Emgu.CV.xml
+F:\huhu\IndentifiedFace\bin\Debug\Emgu.CV.UI.xml
+F:\huhu\IndentifiedFace\bin\Debug\Emgu.Util.xml
+F:\huhu\IndentifiedFace\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmBegin.resources
+F:\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmTimekeeping.resources
+F:\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
+F:\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain.resources
+F:\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmSearchInfoEmployee.resources
+F:\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmAddNewEmployee.resources
+F:\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Properties.Resources.resources
+F:\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.GroupIconControl.resources
+F:\huhu\IndentifiedFace\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\huhu\IndentifiedFace\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Form1.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\bin\Debug\IndentifiedFace.exe.config
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\bin\Debug\IndentifiedFace.exe
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\bin\Debug\IndentifiedFace.pdb
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\bin\Debug\Emgu.CV.xml
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\bin\Debug\Emgu.CV.UI.xml
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\bin\Debug\Emgu.Util.xml
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csprojResolveAssemblyReference.cache
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Form1.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmBegin.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmTimekeeping.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmSearchInfoEmployee.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmAddNewEmployee.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Properties.Resources.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.GroupIconControl.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csproj.GenerateResource.Cache
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\bin\Debug\SriClocks.dll
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmCheck.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\bin\Debug\IndentifiedFace.exe.config
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\bin\Debug\IndentifiedFace.exe
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\bin\Debug\IndentifiedFace.pdb
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\bin\Debug\SriClocks.dll
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\bin\Debug\Emgu.CV.xml
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\bin\Debug\Emgu.CV.UI.xml
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\bin\Debug\Emgu.Util.xml
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csprojResolveAssemblyReference.cache
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmCheck.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Form1.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmBegin.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmTimekeeping.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmSearchInfoEmployee.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmAddNewEmployee.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Properties.Resources.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\obj\x86\Debug\IndentifiedFace.GroupIconControl.resources
+E:\TIEMNV\Docs\LuanVanLuanAn\IndentifiedFace\tiemnv\huhu\hehe\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csproj.GenerateResource.Cache
+C:\Users\kieus_000\Desktop\IndentifiedFace\bin\Debug\IndentifiedFace.exe.config
+C:\Users\kieus_000\Desktop\IndentifiedFace\bin\Debug\IndentifiedFace.exe.manifest
+C:\Users\kieus_000\Desktop\IndentifiedFace\bin\Debug\IndentifiedFace.application
+C:\Users\kieus_000\Desktop\IndentifiedFace\bin\Debug\IndentifiedFace.exe
+C:\Users\kieus_000\Desktop\IndentifiedFace\bin\Debug\IndentifiedFace.pdb
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmCheck.resources
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Form1.resources
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmBegin.resources
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmTimekeeping.resources
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmMain.resources
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmSearchInfoEmployee.resources
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmAddNewEmployee.resources
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.Properties.Resources.resources
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.GroupIconControl.resources
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csproj.GenerateResource.Cache
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.TrustInfo.xml
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe.manifest
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.application
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
+C:\Users\kieus_000\Desktop\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb

@@ -356,6 +356,7 @@ namespace IndentifiedFace
             this.grvdata3.Name = "grvdata3";
             this.grvdata3.Size = new System.Drawing.Size(357, 156);
             this.grvdata3.TabIndex = 4;
+            this.grvdata3.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.grvdata3_CellContentClick);
             // 
             // groupBox3
             // 

@@ -37,7 +37,7 @@ namespace IndentifiedFace
         private AppConfig applicationConfiguration;
         private void connect()
         {
-            String cn = @"Data Source=DESKTOP-1GICUND\;Initial Catalog=Employee;Integrated Security=True";
+            String cn = @"Data Source=PUNN\;Initial Catalog=Employee;Integrated Security=True";
             try
             {
                 con = new SqlConnection(cn);

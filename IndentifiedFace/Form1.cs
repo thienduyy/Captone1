@@ -23,7 +23,7 @@ namespace IndentifiedFace
         private void connect()
         {
             //String cn = applicationConfiguration.getDatabaseConnectionString();
-            String cn = @"Data Source=DESKTOP-1GICUND\;Initial Catalog=Employee;Integrated Security=True";
+            String cn = @"Data Source=PUNN\;Initial Catalog=Employee;Integrated Security=True";
             try
             {
                 con = new SqlConnection(cn);
@@ -217,9 +217,9 @@ namespace IndentifiedFace
             //demngaycong();
         }
 
-       
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
 
-       
-
+        }
     }
 }

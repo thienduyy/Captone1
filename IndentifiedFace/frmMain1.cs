@@ -82,7 +82,7 @@ namespace IndentifiedFace
 
         private void btnListOfEmp_Click(object sender, EventArgs e)
         {
-            Form1 frm = new Form1();
+            Form1 frm = new Form1(applicationConfiguration);
             frm.ShowDialog();
         }
     }

@@ -23,7 +23,7 @@ namespace IndentifiedFace
         private void connect()
         {
             //String cn = applicationConfiguration.getDatabaseConnectionString();
-            String cn = @"Data Source=PUNN\;Initial Catalog=Employee;Integrated Security=True";
+            String cn = applicationConfiguration.getDatabaseConnectionString();
             try
             {
                 con = new SqlConnection(cn);

@@ -37,7 +37,7 @@ namespace IndentifiedFace
         private AppConfig applicationConfiguration;
         private void connect()
         {
-            String cn = @"Data Source=PUNN\;Initial Catalog=Employee;Integrated Security=True";
+            String cn = applicationConfiguration.getDatabaseConnectionString();
             try
             {
                 con = new SqlConnection(cn);
@@ -253,13 +253,7 @@ namespace IndentifiedFace
 
         private void btnExit_Click(object sender, EventArgs e)
         {
-            if (grabber != null)
-            {
-                grabber.Dispose();
-            }
-            Close();
-            Dispose();
-            disconnect();
+            this.Close();
         }
 
         private void frmAddNewEmployee_Load(object sender, EventArgs e)

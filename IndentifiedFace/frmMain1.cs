@@ -60,7 +60,7 @@ namespace IndentifiedFace
         }
         private void connect()
         {
-            String cn = @"Data Source=DESKTOP-1GICUND\;Initial Catalog=Employee;Integrated Security=True";
+            String cn = applicationConfiguration.getDatabaseConnectionString();
             try
             {
                 con = new SqlConnection(cn);

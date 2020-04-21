@@ -102,14 +102,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IndentifiedFace.exe" size="3028992">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IndentifiedFace.exe" size="3027968">
       <assemblyIdentity name="IndentifiedFace" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>7V78d1D078qFKHX/ktUOEf5DKb4=</dsig:DigestValue>
+        <dsig:DigestValue>8gdFXqlTK2hDDXbqSQPtmhnFxlk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -137,13 +137,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="IndentifiedFace.exe.config" size="627">
+  <file name="IndentifiedFace.exe.config" size="628">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>wwoDyRL1bXurn09/kqbOejjmFE4=</dsig:DigestValue>
+      <dsig:DigestValue>SQwdXTsgPzNBNqxMokf8KtkVB0Q=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">

@@ -165,7 +165,7 @@ namespace IndentifiedFace
 
         private void connect()
         {
-			String cn = @"Data Source=PUNN\;Initial Catalog=Employee;Integrated Security=True";
+            String cn = applicationConfiguration.getDatabaseConnectionString();
             try
             {
                 con = new SqlConnection(cn);
@@ -398,33 +398,7 @@ namespace IndentifiedFace
 
         private void btnexit_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show(applicationConfiguration.getLanguagePackage().getMainFormQuitConfimMessage(),
-                applicationConfiguration.getLanguagePackage().getMainFormQuitConfimTitle(), MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
-            {
-
-                if (Presence.Count != 0)
-                {
-                    MessageBox.Show("Total " + cbGroup.Text + " : " + dt0.Rows.Count + "\n Available: " + Presence.Count + "\n Absented: " + Absence.Count, "Alert", MessageBoxButtons.OK);
-                    if (grabber != null)
-                    {
-                        grabber.Dispose();
-                    }
-                    Close();
-                    Dispose();
-                    disconnect();
-                }
-                else
-                {
-                    MessageBox.Show("Total " + cbGroup.Text + " : " + dt0.Rows.Count + " \n No member has been made roll-call", "Alert", MessageBoxButtons.OK);
-                    if (grabber != null)
-                    {
-                        grabber.Dispose();
-                    }
-                    Close();
-                    Dispose();
-                    disconnect();
-                }
-            }
+           this.Close();
         }
 
         private void Timekeeping()
@@ -582,11 +556,11 @@ namespace IndentifiedFace
 		
         private void frmTimekeeping_FormClosed(object sender, FormClosedEventArgs e)
         {
-            try { serialPortManager.CloseConnection(); }
+            /*try { serialPortManager.CloseConnection(); }
             catch
             {
                 //No problem 
-            }
+            }*/
         }
 
         private void comboBoxOutputDevice_SelectedIndexChanged(object sender, EventArgs e)

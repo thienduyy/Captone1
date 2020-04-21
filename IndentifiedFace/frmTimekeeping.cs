@@ -609,7 +609,7 @@ namespace IndentifiedFace
         {
             try
             {
-                /* creating Excel Application
+                //creating Excel Application
                 Microsoft.Office.Interop.Excel._Application app = new Microsoft.Office.Interop.Excel.Application();
                 // creating new WorkBook within Excel application
                 Microsoft.Office.Interop.Excel._Workbook workbook = app.Workbooks.Add(Type.Missing);
@@ -641,7 +641,7 @@ namespace IndentifiedFace
 
                 workbook.SaveAs("c:\\grvData2.xls", Type.Missing, Type.Missing, Type.Missing, Type.Missing, Type.Missing, Microsoft.Office.Interop.Excel.XlSaveAsAccessMode.xlExclusive, Type.Missing, Type.Missing, Type.Missing, Type.Missing);
                 // Exit from the application
-                app.Quit();*/
+                app.Quit();
             }
             catch (Exception)
             {

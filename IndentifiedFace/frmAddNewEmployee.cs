@@ -22,6 +22,8 @@ namespace IndentifiedFace
         private DataTable dtGroup = new DataTable("tblGroup");
         private SqlDataAdapter da = new SqlDataAdapter();
         private Boolean kt;
+        
+        
 
         string EmployeeName, GroupName;
         Capture grabber;
@@ -243,17 +245,22 @@ namespace IndentifiedFace
 
         private void btnCamera_Click(object sender, EventArgs e)
         {
+            
             grabber = new Capture();
             grabber.QueryFrame();
             Application.Idle += new EventHandler(FrameGrabber);
             btnReset.Enabled = true;
             btnAddNewEmployee.Enabled = true;
             btnCamera.Enabled = false;
+
+            
         }
 
         private void btnExit_Click(object sender, EventArgs e)
         {
+
             this.Close();
+            
         }
 
         private void frmAddNewEmployee_Load(object sender, EventArgs e)
@@ -294,6 +301,8 @@ namespace IndentifiedFace
             txtTen.Text = null;
             cbGioitinh.SelectedIndex = 0;
             cbGroup.SelectedIndex = 0;
+
+            
         }
 
         private void btnDanhSachSV_Click(object sender, EventArgs e)
@@ -333,6 +342,11 @@ namespace IndentifiedFace
 
         }
 
+        private void tTcam_Popup(object sender, PopupEventArgs e)
+        {
+            
+        }
+
         private void frmAddNewEmployee_Load_1(object sender, EventArgs e)
         {
 
@@ -350,7 +364,7 @@ namespace IndentifiedFace
 
         private void btnAddNewEmployee_Click_1(object sender, EventArgs e)
         {
-
+            
 
                 CheckInfo();
                 if (kt == true)
@@ -410,11 +424,10 @@ namespace IndentifiedFace
                     }
                 }
             }
-           
 
-
+        
+        
         }
-
 
     }
 

@@ -49,14 +49,28 @@ namespace IndentifiedFace
         private void btnAdd_Click(object sender, EventArgs e)
         {
             _frmAddNewEmployee = new frmAddNewEmployee(applicationConfiguration);
-            
             _frmAddNewEmployee.Show();
+            _frmAddNewEmployee.FormClosed += new FormClosedEventHandler(_frmAddNewEmployee_FormClosed);
+            this.Hide();
         }
+
+        private void _frmAddNewEmployee_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            this.Show();
+        }
+
+        
 
         private void button2_Click(object sender, EventArgs e)
         {
             frmTimekeeping diemdanh = new frmTimekeeping(applicationConfiguration);
             diemdanh.Show();
+            diemdanh.FormClosed += new FormClosedEventHandler(diemdanh_FormClosed);
+            this.Hide();
+        }
+        private void diemdanh_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            this.Show();
         }
         private void connect()
         {
@@ -83,7 +97,26 @@ namespace IndentifiedFace
         private void btnListOfEmp_Click(object sender, EventArgs e)
         {
             Form1 frm = new Form1(applicationConfiguration);
-            frm.ShowDialog();
+            frm.Show();
+            frm.FormClosed += new FormClosedEventHandler(frm_FormClosed);
+            this.Hide();
+        }
+        private void frm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            this.Show();
+        }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            frmLogin lg = new frmLogin();
+            lg.Show();
+            lg.FormClosed += new FormClosedEventHandler(Lg_FormClosed);
+            this.Hide();
+        }
+
+        private void Lg_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            this.Show();
         }
     }
 }

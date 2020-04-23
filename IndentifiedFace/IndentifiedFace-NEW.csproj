@@ -142,6 +142,12 @@
     </Compile>
     <Compile Include="Configurations\Language\LanguagePackage.cs" />
     <Compile Include="IO\SerialPortConn.cs" />
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmCheck.resx">
@@ -159,6 +165,9 @@
     <EmbeddedResource Include="frmAddNewEmployee.resx">
       <DependentUpon>frmAddNewEmployee.cs</DependentUpon>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -317,6 +326,87 @@
       <Isolated>False</Isolated>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera_addon_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_user_male_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\attendance_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_sign_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_user_group_woman_man_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera1_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera_60px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_user_group_woman_man_60px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_user_group_woman_man_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reset_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera_30_1px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telegram_app_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_male_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login_34px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microsoft_excel_2019_15px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microsoft_excel_2019_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_property_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\day_off_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\find_user_male_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_groups_25px.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

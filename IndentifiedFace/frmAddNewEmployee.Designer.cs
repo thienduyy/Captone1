@@ -43,11 +43,6 @@ namespace IndentifiedFace
             this.dtBirth = new System.Windows.Forms.DateTimePicker();
             this.cbGroup = new System.Windows.Forms.ComboBox();
             this.cbGioitinh = new System.Windows.Forms.ComboBox();
-            this.ImageFace = new Emgu.CV.UI.ImageBox();
-            this.btnCamera = new System.Windows.Forms.Button();
-            this.btnAddNewEmployee = new System.Windows.Forms.Button();
-            this.btnExit = new System.Windows.Forms.Button();
-            this.btnReset = new System.Windows.Forms.Button();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel5 = new System.Windows.Forms.Panel();
@@ -58,8 +53,13 @@ namespace IndentifiedFace
             this.panel4 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
             this.label8 = new System.Windows.Forms.Label();
+            this.ImageFace = new Emgu.CV.UI.ImageBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
-            ((System.ComponentModel.ISupportInitialize)(this.ImageFace)).BeginInit();
+            this.btnCamera = new System.Windows.Forms.Button();
+            this.btnExit = new System.Windows.Forms.Button();
+            this.btnAddNewEmployee = new System.Windows.Forms.Button();
+            this.btnReset = new System.Windows.Forms.Button();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -67,6 +67,7 @@ namespace IndentifiedFace
             this.panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.imageBoxFrameGrabber1)).BeginInit();
             this.panel4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.ImageFace)).BeginInit();
             this.groupBox3.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -130,9 +131,9 @@ namespace IndentifiedFace
             this.label4.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(81, 404);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(59, 20);
+            this.label4.Size = new System.Drawing.Size(105, 20);
             this.label4.TabIndex = 2;
-            this.label4.Text = "Room :";
+            this.label4.Text = "Department :";
             // 
             // label5
             // 
@@ -219,62 +220,6 @@ namespace IndentifiedFace
             this.cbGioitinh.Name = "cbGioitinh";
             this.cbGioitinh.Size = new System.Drawing.Size(190, 28);
             this.cbGioitinh.TabIndex = 4;
-            // 
-            // ImageFace
-            // 
-            this.ImageFace.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.ImageFace.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("ImageFace.BackgroundImage")));
-            this.ImageFace.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ImageFace.Location = new System.Drawing.Point(138, 88);
-            this.ImageFace.Name = "ImageFace";
-            this.ImageFace.Size = new System.Drawing.Size(88, 93);
-            this.ImageFace.TabIndex = 0;
-            this.ImageFace.TabStop = false;
-            this.ImageFace.Click += new System.EventHandler(this.ImageFace_Click);
-            // 
-            // btnCamera
-            // 
-            this.btnCamera.ForeColor = System.Drawing.Color.Blue;
-            this.btnCamera.Image = ((System.Drawing.Image)(resources.GetObject("btnCamera.Image")));
-            this.btnCamera.Location = new System.Drawing.Point(25, 12);
-            this.btnCamera.Name = "btnCamera";
-            this.btnCamera.Size = new System.Drawing.Size(84, 48);
-            this.btnCamera.TabIndex = 6;
-            this.btnCamera.UseVisualStyleBackColor = true;
-            this.btnCamera.Click += new System.EventHandler(this.btnCamera_Click);
-            // 
-            // btnAddNewEmployee
-            // 
-            this.btnAddNewEmployee.ForeColor = System.Drawing.Color.Blue;
-            this.btnAddNewEmployee.Image = ((System.Drawing.Image)(resources.GetObject("btnAddNewEmployee.Image")));
-            this.btnAddNewEmployee.Location = new System.Drawing.Point(124, 12);
-            this.btnAddNewEmployee.Name = "btnAddNewEmployee";
-            this.btnAddNewEmployee.Size = new System.Drawing.Size(84, 48);
-            this.btnAddNewEmployee.TabIndex = 6;
-            this.btnAddNewEmployee.UseVisualStyleBackColor = true;
-            this.btnAddNewEmployee.Click += new System.EventHandler(this.btnAddNewEmployee_Click_1);
-            // 
-            // btnExit
-            // 
-            this.btnExit.ForeColor = System.Drawing.Color.Red;
-            this.btnExit.Image = ((System.Drawing.Image)(resources.GetObject("btnExit.Image")));
-            this.btnExit.Location = new System.Drawing.Point(325, 12);
-            this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(84, 48);
-            this.btnExit.TabIndex = 6;
-            this.btnExit.UseVisualStyleBackColor = true;
-            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
-            // 
-            // btnReset
-            // 
-            this.btnReset.ForeColor = System.Drawing.Color.Blue;
-            this.btnReset.Image = ((System.Drawing.Image)(resources.GetObject("btnReset.Image")));
-            this.btnReset.Location = new System.Drawing.Point(225, 12);
-            this.btnReset.Name = "btnReset";
-            this.btnReset.Size = new System.Drawing.Size(84, 48);
-            this.btnReset.TabIndex = 6;
-            this.btnReset.UseVisualStyleBackColor = true;
-            this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
             // 
             // splitContainer1
             // 
@@ -400,6 +345,18 @@ namespace IndentifiedFace
             this.label8.TabIndex = 1;
             this.label8.Text = "Employee";
             // 
+            // ImageFace
+            // 
+            this.ImageFace.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.ImageFace.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("ImageFace.BackgroundImage")));
+            this.ImageFace.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ImageFace.Location = new System.Drawing.Point(138, 88);
+            this.ImageFace.Name = "ImageFace";
+            this.ImageFace.Size = new System.Drawing.Size(88, 93);
+            this.ImageFace.TabIndex = 0;
+            this.ImageFace.TabStop = false;
+            this.ImageFace.Click += new System.EventHandler(this.ImageFace_Click);
+            // 
             // groupBox3
             // 
             this.groupBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
@@ -415,6 +372,62 @@ namespace IndentifiedFace
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = " ";
             this.groupBox3.Enter += new System.EventHandler(this.groupBox3_Enter);
+            // 
+            // btnCamera
+            // 
+            this.btnCamera.ForeColor = System.Drawing.Color.Blue;
+            this.btnCamera.Image = global::IndentifiedFace.Properties.Resources.camera_40px;
+            this.btnCamera.Location = new System.Drawing.Point(25, 12);
+            this.btnCamera.Name = "btnCamera";
+            this.btnCamera.Size = new System.Drawing.Size(84, 48);
+            this.btnCamera.TabIndex = 6;
+            this.toolTip1.SetToolTip(this.btnCamera, "Open Camera");
+            this.btnCamera.UseVisualStyleBackColor = true;
+            this.btnCamera.Click += new System.EventHandler(this.btnCamera_Click);
+            // 
+            // btnExit
+            // 
+            this.btnExit.ForeColor = System.Drawing.Color.Red;
+            this.btnExit.Image = global::IndentifiedFace.Properties.Resources.x_40px;
+            this.btnExit.Location = new System.Drawing.Point(325, 12);
+            this.btnExit.Name = "btnExit";
+            this.btnExit.Size = new System.Drawing.Size(84, 48);
+            this.btnExit.TabIndex = 6;
+            this.toolTip1.SetToolTip(this.btnExit, "Close");
+            this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
+            // 
+            // btnAddNewEmployee
+            // 
+            this.btnAddNewEmployee.ForeColor = System.Drawing.Color.Blue;
+            this.btnAddNewEmployee.Image = global::IndentifiedFace.Properties.Resources.add_user_group_woman_man_40px;
+            this.btnAddNewEmployee.Location = new System.Drawing.Point(124, 12);
+            this.btnAddNewEmployee.Name = "btnAddNewEmployee";
+            this.btnAddNewEmployee.Size = new System.Drawing.Size(84, 48);
+            this.btnAddNewEmployee.TabIndex = 6;
+            this.toolTip1.SetToolTip(this.btnAddNewEmployee, "Add Employee");
+            this.btnAddNewEmployee.UseVisualStyleBackColor = true;
+            this.btnAddNewEmployee.Click += new System.EventHandler(this.btnAddNewEmployee_Click_1);
+            // 
+            // btnReset
+            // 
+            this.btnReset.ForeColor = System.Drawing.Color.Blue;
+            this.btnReset.Image = global::IndentifiedFace.Properties.Resources.reset_40px;
+            this.btnReset.Location = new System.Drawing.Point(225, 12);
+            this.btnReset.Name = "btnReset";
+            this.btnReset.Size = new System.Drawing.Size(84, 48);
+            this.btnReset.TabIndex = 6;
+            this.toolTip1.SetToolTip(this.btnReset, "Reset");
+            this.btnReset.UseVisualStyleBackColor = true;
+            this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
+            // 
+            // toolTip1
+            // 
+            this.toolTip1.AutoPopDelay = 5000;
+            this.toolTip1.InitialDelay = 0;
+            this.toolTip1.IsBalloon = true;
+            this.toolTip1.ReshowDelay = 100;
+            this.toolTip1.ShowAlways = true;
             // 
             // frmAddNewEmployee
             // 
@@ -432,7 +445,6 @@ namespace IndentifiedFace
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "New Employee";
             this.Load += new System.EventHandler(this.frmAddNewEmployee_Load_1);
-            ((System.ComponentModel.ISupportInitialize)(this.ImageFace)).EndInit();
             this.splitContainer1.Panel1.ResumeLayout(false);
             this.splitContainer1.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
@@ -442,6 +454,7 @@ namespace IndentifiedFace
             ((System.ComponentModel.ISupportInitialize)(this.imageBoxFrameGrabber1)).EndInit();
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.ImageFace)).EndInit();
             this.groupBox3.ResumeLayout(false);
             this.ResumeLayout(false);
 
@@ -499,5 +512,6 @@ namespace IndentifiedFace
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Panel panel4;
         private System.Windows.Forms.Panel panel5;
+        private System.Windows.Forms.ToolTip toolTip1;
     }
 }

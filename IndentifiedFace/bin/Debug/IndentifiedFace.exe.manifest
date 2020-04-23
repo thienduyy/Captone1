@@ -102,14 +102,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IndentifiedFace.exe" size="3033088">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IndentifiedFace.exe" size="3107840">
       <assemblyIdentity name="IndentifiedFace" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>8Nb2cp0fXQO7aBt0gVxdEhsFtnY=</dsig:DigestValue>
+        <dsig:DigestValue>EsKv9pgeqMf0ydSNs5bxv+ib+T4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

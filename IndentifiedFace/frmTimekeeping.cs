@@ -101,8 +101,8 @@ namespace IndentifiedFace
             da.Fill(dt);
             if (dt.Rows.Count > 0)
             {
-                grvdata.DataSource = dt;
-                grvdata.Columns[4].DefaultCellStyle.Format = "dd/MM/yyyy";
+                /*grvdata.DataSource = dt;
+                grvdata.Columns[4].DefaultCellStyle.Format = "dd/MM/yyyy";*/
             }
 
             try
@@ -146,8 +146,8 @@ namespace IndentifiedFace
             da.Fill(dt0);
             if (dt0.Rows.Count > 0)
             {
-                grvdata.DataSource = dt0;
-                grvdata.Columns[4].DefaultCellStyle.Format = "dd/MM/yyyy";
+                /*grvdata.DataSource = dt0;
+                grvdata.Columns[4].DefaultCellStyle.Format = "dd/MM/yyyy";*/
             }
             try
             {
@@ -201,13 +201,13 @@ namespace IndentifiedFace
                 MessageBox.Show("Tổng số nhân viên trong phòng: " + str + " : " + dt0.Rows.Count + "\n Số nhân viên có mặt: " + Presence.Count + "\n Số nhân viên vắng mặt: " + Absence.Count, "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
             //==========================
-            test = false;
+            /*test = false;
             txtmanv.Text = null;
             txtHo.Text = null;
             txtTen.Text = null;
             txtPhong.Text = null;
             dpBirth.Format = DateTimePickerFormat.Custom;
-            dpBirth.CustomFormat = "dd/MM/yyyy";
+            dpBirth.CustomFormat = "dd/MM/yyyy";*/
             //==========================
             str = cbGroup.Text;
             dt0.Clear();
@@ -244,8 +244,8 @@ namespace IndentifiedFace
             
             if (dt0.Rows.Count > 0)
             {
-                grvdata.DataSource = dt0;
-                grvdata.Columns[4].DefaultCellStyle.Format = "dd/MM/yyyy";
+                /*grvdata.DataSource = dt0;
+                grvdata.Columns[4].DefaultCellStyle.Format = "dd/MM/yyyy";*/
             }
             try
             {
@@ -346,7 +346,7 @@ namespace IndentifiedFace
 							// Hiển thị thông tin của Employee vừa lấy được ở trên ra bảng
                             da.Fill(dt1);
 
-                            grvdata.Columns[4].DefaultCellStyle.Format = "dd/MM/yyyy";
+                            /*grvdata.Columns[4].DefaultCellStyle.Format = "dd/MM/yyyy";
                             txtmanv.DataBindings.Clear();
                             txtmanv.DataBindings.Add("Text", dt1, applicationConfiguration.getLanguagePackage().getMemberCodeAlias());
                             txtHo.DataBindings.Clear();
@@ -358,7 +358,7 @@ namespace IndentifiedFace
                            txtGioitinh.DataBindings.Clear();
                            txtGioitinh.DataBindings.Add("Text", dt1, applicationConfiguration.getLanguagePackage().getSexAlias());
                            dpBirth.DataBindings.Clear();
-                           dpBirth.DataBindings.Add("Text", dt1, applicationConfiguration.getLanguagePackage().getBirthAlias());
+                           dpBirth.DataBindings.Add("Text", dt1, applicationConfiguration.getLanguagePackage().getBirthAlias());*/
                             //btnCallTheRoll_Click(sender, e);
                             DateTime date = Convert.ToDateTime(dt1.Rows[0]["lastdate"]);
                             TimeSpan diff = DateTime.Now - date;
@@ -376,13 +376,13 @@ namespace IndentifiedFace
                         }
                         else
                         {
-                            name = "";
+                            /*name = "";
                             txtmanv.Text = null;
                             txtHo.Text = null;
                             txtTen.Text = null;
                             txtPhong.Text = null;
                             txtGioitinh.Text = null;
-                            dpBirth.Value = Convert.ToDateTime("dd/MM/yyyy");
+                            dpBirth.Value = Convert.ToDateTime("dd/MM/yyyy");*/
                         }
 
                     }
@@ -445,8 +445,8 @@ namespace IndentifiedFace
                         }
 
                     }
-                    else if (Test == true)
-                        MessageBox.Show("Nhân viên:  " + txtHo.Text + " " + txtTen.Text + " đã được tạo!", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    //else if (Test == true)
+                        //MessageBox.Show("Nhân viên:  " + txtHo.Text + " " + txtTen.Text + " đã được tạo!", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
 
                 ShowInformation();
@@ -671,6 +671,21 @@ namespace IndentifiedFace
         }
 
         private void grvdata3_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void splitContainer1_Panel2_Paint(object sender, PaintEventArgs e)
         {
 
         }

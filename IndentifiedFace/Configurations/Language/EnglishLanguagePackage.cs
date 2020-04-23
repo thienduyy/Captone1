@@ -25,11 +25,11 @@ namespace IndentifiedFace.Configurations.Language
 
         public string getMainFormQuitConfimMessage() { return "Bạn có thực sự muốn thoát?"; }
         public string getMainFormQuitConfimTitle() { return "Tắt ứng dụng"; }
-        public string getStatusClassLabel() { return "Phòng: "; }
+        public string getStatusClassLabel() { return "Department: "; }
         public string getStatusQuantityLabel() { return "Tổng NV: "; }
         public string getNoDataSelectedWhenDeleteErrorMessage() { return "Vui lòng chọn dữ liệu để xóa!"; }
         public string getNoDataSelectedWhenDeleteErrorTitle() { return "Xóa nhân viên"; }
-        public string getMemberCodeAlias() { return "Mã nhân viên"; }
+        public string getMemberCodeAlias() { return "ID Employee:"; }
         public string getDeleteMembersButtonLabel() { return "Xóa"; }
         public string getAddMembersButtonLabel() { return "Thêm"; }
         public string getMakingRollCallButtonLabel() { return "Chấm công"; }
@@ -38,13 +38,13 @@ namespace IndentifiedFace.Configurations.Language
         public string getMainFormMenuOperationLabel() { return "Thao tác"; }
         public string getMainFormMenuHelpLabel() { return "Trợ giúp"; }
         public string getMainFormMenuAboutLabel() { return "Thông tin"; }
-        public string getLastNameAlias() { return "Họ "; }
-        public string getFirstNameAlias() { return "Tên "; }
-        public string getMaleAlias() { return "Nam"; }
-        public string getFemaleAlias() { return "Nữ"; }
-        public string getSexAlias() { return "Giới tính "; }
-        public string getBirthAlias() { return "Ngày sinh "; }
-        public string getClassAlias() { return "Phòng "; }
+        public string getLastNameAlias() { return "Firstname:  "; }
+        public string getFirstNameAlias() { return "Lastname: "; }
+        public string getMaleAlias() { return "Male"; }
+        public string getFemaleAlias() { return "Female"; }
+        public string getSexAlias() { return "Gender: "; }
+        public string getBirthAlias() { return "Birthday: "; }
+        public string getClassAlias() { return "Department: "; }
 
         public string getAboutFormFontName() { return "Microsoft Sans Serif"; }
         public string getAboutFormMainCaptionFontName() { return "Times New Roman"; }

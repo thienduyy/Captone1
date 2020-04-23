@@ -147,8 +147,9 @@ namespace IndentifiedFace
             
         }
 
-        public Form1()
+        public Form1(Configuration appConfig)
         {
+            applicationConfiguration = (AppConfig)appConfig;
             InitializeComponent();
             //dtpFrom.Value = new DateTime(DateTime.Now.Year, DateTime.Now.Month, 1);
             //dtpTo.Value = new DateTime(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day + 1);

@@ -7,17 +7,49 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.Data.SqlClient;
-using System.Windows.Forms;
 using System.Threading.Tasks;
+using IndentifiedFace.Configurations;
 //using System.Data;
 
 namespace IndentifiedFace
 {
     public partial class frmLogin : Form
     {
+        private SqlConnection con;
+        private DataTable dt = new DataTable("User");
+        private SqlDataAdapter da = new SqlDataAdapter();
+        private LanguagePackage languagePackage;
+        private AppConfig applicationConfiguration;
         public frmLogin()
         {
             InitializeComponent();
+        }
+        public frmLogin(Configuration appConfig)
+        {
+            // TODO: Complete member initialization
+            applicationConfiguration = (AppConfig)appConfig;
+            this.languagePackage = appConfig.getLanguagePackage();
+            InitializeComponent();
+        }
+        private void connect()
+        {
+            //String cn = applicationConfiguration.getDatabaseConnectionString();
+            String cn = @"Data Source=DESKTOP-OOJ4QPN;Initial Catalog=Employee;Integrated Security=True";
+            try
+            {
+                con = new SqlConnection(cn);
+                con.Open();
+            }
+            catch
+            {
+                MessageBox.Show(languagePackage.getErrorConnectToDatabaseMessage(), languagePackage.getErrorConnectToDatabaseTitle(), MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+        private void disconnect()
+        {
+            con.Close();
+            con.Dispose();
+            con = null;
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -35,41 +67,50 @@ namespace IndentifiedFace
         {
 
         }
-        public static string UserName = "";
+        //public static string UserName = "";
         private void btLogin_Click(object sender, EventArgs e)
         {
-            SqlConnection con = new SqlConnection(@"Data Source=PHUTHACH_DESKTO;Initial Catalog=Employee;Integrated Security=True");
-            try
+            SqlCommand command = new SqlCommand();
+            command.Connection = con;
+            command.CommandType = CommandType.Text;
+            command.CommandText = @"Select * From tblAccount
+                                            Where (fldUsername = @User)
+                                            And (fldPassword = @Pass)";
+            command.Parameters.Add("@User", SqlDbType.NVarChar, 50).Value = txtUsername.Text;
+            command.Parameters.Add("@Pass", SqlDbType.NVarChar, 50).Value = txtPassword.Text;
+            da.SelectCommand = command;
+            da.Fill(dt);
+            if (dt.Rows.Count > 0)
             {
-                con.Open();
-                string username = txtUsername.Text;
-                string password = txtPassword.Text;
-                string sql = "Select * from dbo.tblAccount where fldUsername = '" + username + "' and fldPassword = '" + password + "' ";
-                SqlCommand cmd = new SqlCommand(sql, con);
-                SqlDataReader dta = cmd.ExecuteReader();
-                if (dta.Read() == true)
+                frmMain1 main = new frmMain1(applicationConfiguration);
+                main.Show();
+                Hide();
+            }
+            else
+            {
+                if (MessageBox.Show(languagePackage.getAskRetryLoginMessage(), languagePackage.getAskRetryLoginTitle(), MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
-                    MessageBox.Show("Login Succesfull!!");
+                    txtUsername.Focus();
                 }
                 else
                 {
-                    MessageBox.Show("Login Failed!!");
+                    Close();
+                    Dispose();
+                    disconnect();
+                    System.Windows.Forms.Application.Exit();
                 }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Username or Password Wrong!!");
             }
         }
 
         private void btExit_Click(object sender, EventArgs e)
         {
-            Close();
+            Application.Exit();
         }
 
         private void Login_Load(object sender, EventArgs e)
         {
-
+            connect();
+            
         }
 
         private void txtPassword_TextChanged(object sender, EventArgs e)

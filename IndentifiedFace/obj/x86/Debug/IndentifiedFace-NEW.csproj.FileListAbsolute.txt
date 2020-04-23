@@ -125,3 +125,4 @@ D:\Cap\Captone1\IndentifiedFace\obj\x86\Debug\IndentifiedFace-NEW.csproj.CopyCom
 D:\Cap\Captone1\IndentifiedFace\obj\x86\Debug\IndentifiedFace.exe
 D:\Cap\Captone1\IndentifiedFace\obj\x86\Debug\IndentifiedFace.pdb
 D:\Cap\Captone1\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
+P:\Captone\master\IndentifiedFace\obj\x86\Debug\IndentifiedFace.frmLogin.resources
